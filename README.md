@@ -13,7 +13,7 @@
 
 </div>
 
-
+--- 
 ## Overview
 
 HabitFlow is a fully client-side daily habit tracker with a dark glassmorphism UI. It supports multiple user accounts, persistent streaks, a weekly timetable, a real-time consistency heatmap, and a focus timer — all without a backend. Every user's data is isolated and stored locally in the browser.
