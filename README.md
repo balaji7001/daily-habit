@@ -11,8 +11,6 @@
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3-%2338BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com)
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
-
 </div>
 
 ---
